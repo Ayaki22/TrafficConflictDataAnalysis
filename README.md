@@ -6,3 +6,6 @@
         <strong>Last tested version:</strong> 0504
     </p> 
 </center>
+
+# About the project
+We collected traffic data to analyze the level of conflict risk at intersections in Tainan.
